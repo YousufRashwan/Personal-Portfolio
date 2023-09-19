@@ -1593,3 +1593,7 @@ body.dark-theme {
     right: 3rem;
   }
 }
+
+.not-real {
+  font-size: var(--small-font-size);
+}

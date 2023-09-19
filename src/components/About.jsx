@@ -21,12 +21,12 @@ function About() {
 
         <div className="about__info">
           <p className="about__description">
-            I create <b>Web Apps</b> with
-            <b> Responsive & Interactive User Interface</b> building new
-            user-facing features,
-            <b> optimize application for maximum speed and scalability</b>, I
-            have rich experience in building different types of web app/website
-            projects with different tools.
+            Hello there! I'm <b>Yousuf</b>, a passionate{" "}
+            <b>frontend developer</b> with a keen eye for design and a love for
+            crafting exceptional user experiences. With a strong foundation in{" "}
+            <b>web development</b> and a background in{" "}
+            <b>software engineering</b>, I thrive on the intersection of
+            creativity and technical expertise.
           </p>
           <ul className="about__list">
             <li className="about__item">

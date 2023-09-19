@@ -6,7 +6,7 @@ function Projects() {
   const projects = [
     {
       subtitle: "Website",
-      title: "Lorem ipsum",
+      title: "Dummy Project!",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ab non tempora illo quod, ea officia sequi totam dolores rem a, corrupti blanditiis sint saepe repudiandae quis beatae magni? Ducimus.",
       demo: "",
@@ -16,7 +16,7 @@ function Projects() {
     },
     {
       subtitle: "Web app",
-      title: "Lorem ipsum",
+      title: "Dummy Project!",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ab non tempora illo quod, ea officia sequi totam dolores rem a, corrupti blanditiis sint saepe repudiandae quis beatae magni? Ducimus.",
       demo: "",
@@ -26,7 +26,7 @@ function Projects() {
     },
     {
       subtitle: "Game",
-      title: "Lorem ipsum",
+      title: "Dummy Project!",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ab non tempora illo quod, ea officia sequi totam dolores rem a, corrupti blanditiis sint saepe repudiandae quis beatae magni? Ducimus.",
       demo: "",
@@ -36,7 +36,7 @@ function Projects() {
     },
     {
       subtitle: "Website",
-      title: "Lorem ipsum",
+      title: "Dummy Project!",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ab non tempora illo quod, ea officia sequi totam dolores rem a, corrupti blanditiis sint saepe repudiandae quis beatae magni? Ducimus.",
       demo: "",
@@ -51,8 +51,8 @@ function Projects() {
       <div className="projects__image">
         <img src={project.projectImg} alt="image" className="projects__img" />
         <a
-          href={project.demo}
-          target="_blank"
+          // href={project.demo}
+          // target="_blank"
           className="projects__button button"
         >
           <i className="ri-arrow-right-up-line"></i>

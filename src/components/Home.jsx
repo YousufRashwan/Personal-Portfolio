@@ -51,9 +51,10 @@ function Home() {
 
         <div className="home__info">
           <p className="home__description">
-            <b>Frontend Developer</b>, with knowledge in web development and
-            software engineering, I develop user-interfaces combining the art of
-            design with the art of programming.
+            <b>Frontend Developer</b>, with expertise in web development and
+            software engineering, I specialize in creating visually appealing
+            and functional user interfaces. By combining the art of design with
+            programming skills.
           </p>
           <a href="#about" className="home__scroll">
             <div className="home__scroll-box">

@@ -1,22 +1,22 @@
 function Services() {
   const services = [
     {
-      title: "Web Design",
+      title: "Responsive Web Design",
       description:
-        "Developing stable, fast and efficient user interface maintaining it's interactiveness and ensuring the technical feasibility of UI/UX.",
+        "I create websites that adapt and work seamlessly across various devices and screen sizes, ensuring an optimal user experience.",
       icon: "ri-layout-4-line",
     },
     {
-      title: "Development",
+      title: "User Interface (UI) Implementation",
       description:
-        "Building reusable code and libraries, following SEO best practices and optimizing application for maximum speed and scalability.",
+        "I collaborate with UX designers to translate wireframes and design mockups into interactive and visually appealing user interfaces.",
       icon: "ri-code-box-line",
     },
     {
-      title: "Mobile App",
+      title: "Performance Optimization",
       description:
-        "Implementing mobile-based desgin features providing a seamless user experience.",
-      icon: "ri-smartphone-line",
+        "I focus on optimizing website speed and performance to provide users with a fast and efficient browsing experience.",
+      icon: "ri-speed-up-line",
     },
   ];
 
