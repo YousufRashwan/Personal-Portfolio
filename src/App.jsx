@@ -72,9 +72,7 @@ function App() {
         <Projects />
         <Contact />
       </main>
-
       <Footer />
-
       {/* <!--========== SCROLL UP ==========--> */}
       <a
         href="#"
@@ -83,13 +81,6 @@ function App() {
       >
         <i className="ri-arrow-up-line"></i>
       </a>
-
-      {/* <!--=============== SCROLLREVEAL ===============--> */}
-      <script src=""></script>
-
-      {/* <!--=============== EMAIL JS ===============--> */}
-
-      {/* <!--=============== MAIN JS ===============--> */}
     </>
   );
 }
